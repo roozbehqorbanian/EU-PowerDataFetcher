@@ -1,5 +1,7 @@
 # EU-PowerDataFetcher
 
+0a558cec-bbe7-4a53-9156-f7ab2b903b5a
+
 This Python script efficiently fetches energy data from the European Network of Transmission System Operators for Electricity (ENTSO-E). Utilizing the `entsoe` Python package, it gathers various types of energy data including day-ahead prices, demand, generation, installed generation capacity, and hydro storage data.
 
 ## Key Features:
